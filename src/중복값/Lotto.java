@@ -18,9 +18,6 @@ public class Lotto {
             System.out.println(lotto[i]+"");
         }
         System.out.println();
-
-
-
     }
 }
 
