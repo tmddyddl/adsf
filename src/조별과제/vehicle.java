@@ -33,7 +33,7 @@ public class vehicle {
 
     void 주유횟수(int 지역) {
 
-        int 필요기름 = (지역 / 연비)*mcnt;
+        int 필요기름 = (지역 / 연비) * mcnt;
 
         if (연료탱크크기 >= 필요기름) {
             System.out.println("총 주유 횟수 : " + 주유횟수 + "회");

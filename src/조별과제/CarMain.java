@@ -13,7 +13,7 @@ public class CarMain {
         int 차량 = sc.nextInt();
         System.out.println("부가 기능 [1]ON [2]OFF : ");
         boolean 부가기능;
-        if (sc.nextInt()==1) 부가기능 = true;
+        if (sc.nextInt() == 1) 부가기능 = true;
         else 부가기능 = false;
         System.out.println();
 
